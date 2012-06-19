@@ -5,7 +5,7 @@ Plugin URI: https://github.com/victorjonsson/jQuery-Speech-Interface/
 Tags: jquery, speech, interface
 Requires at least: 2.7
 Tested up to: 3.3.4
-Stable tag: 1.0.2
+Stable tag: 1.0.4
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ With this plugin you make it possible for your visitors to scroll and navigate y
 
 == Description ==
 
-The idea behind this plugin is to give people with **disabilities** (that makes it difficult or impossible to use a mouse) a better website experience.
+With this plugin you make it possible for your visitors to scroll and navigate your website by talking to the browser (enlgish only). The idea behind this plugin is to give people with **disabilities** (that makes it difficult or impossible to use a mouse) a better website experience.
 
 
 > **NOTICE!** This plugin is mostly for fun and can't really be put into use since Chrome is the only browser implementing _-webkit-speech_ at the moment. It's also not possible to trigger the speech input without clicking on the input field, which is in contradiction to the purpose of this plugin. But as soon as the browsers adds the event _startSpeechInput_ to speech inputs this will be possible to achieve.
@@ -31,10 +31,10 @@ Say one of the following commands and the magic will happen (*you have to say it
 
 == Installation ==
 
-1. Install the via the WordPress.org plugin directory.
+1. Install the plugin via the WordPress.org plugin directory.
 2. That's all folks! (You can change the settings of the plugin by navigation to "Settings" -> "Speech Interface" in wp-admin)
 
 == Screenshots ==
 
-1. The speech interface controller that will show up in the right corner of your website
+1. The speech interface controller that will show up in the upper left corner of your website
 2. Settings page in wp-admin
