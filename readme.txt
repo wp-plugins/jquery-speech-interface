@@ -21,7 +21,7 @@ The idea behind this plugin is to give people with **disabilities** (that makes 
 = How does it work? =
 After that you've installed the plugin a dialog box will appear in the left corner of your website. In the dialog box there will be a small microphone-icon. Click on the icon and a recording will start (remember that this is only supported by Google Chrome at the moment).
 
-Say one of the following commands and the magic will happen (*you have to say it load and clear, otherwise googles servers gets a bit muddle-headed*).
+Say one of the following commands and the magic will happen (*you have to say it loud and clear, otherwise googles servers gets a bit muddle-headed*).
 
 * "scroll down"
 * "scroll up"
