@@ -1,0 +1,18 @@
+#setting-error-settings_updated {
+    margin-top: 14px;
+}
+
+#jqspeech-options .info {
+    font-size: 12px;
+    color: #777;
+    font-style: italic;
+}
+
+#jqspeech-options input[type=text] {
+    width: 90%;
+}
+
+#jqspeech-options td,
+#jqspeech-options th {
+    vertical-align: top;
+}
