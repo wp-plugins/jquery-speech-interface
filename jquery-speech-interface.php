@@ -3,7 +3,7 @@
 Plugin Name: jQuery Speech Interface
 Plugin URI: https://github.com/victorjonsson/jQuery-Speech-Interface/
 Description: With this plugin you make it possible for your visitors to scroll and navigate your website by talking to the browser. This plugin is mostly for fun since it only works in Google Chrome at the moment (supporting -webkit-speech)
-Version: 1.0
+Version: 1.0.1
 Author: <a href="http://victorjonsson.se">Victor Jonsson</a> (<a href="http://twitter.com/victor_jonsson">@victor_jonsson</a>)
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

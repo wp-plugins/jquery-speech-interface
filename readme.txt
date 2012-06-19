@@ -1,11 +1,11 @@
 === jQuery Speech Interface ===
 
-Contributors: @victor_jonsson
+Contributors: victor_jonsson
 Plugin URI: https://github.com/victorjonsson/jQuery-Speech-Interface/
 Tags: jquery, speech, interface
 Requires at least: 2.7
 Tested up to: 3.3.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
